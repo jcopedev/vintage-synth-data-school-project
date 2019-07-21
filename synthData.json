@@ -29,6 +29,6 @@
 
 {"Id":"14", "BRAND": "Moog", "BraID": 3, "ProName": "ConcertMate", "PicName": "concertMate.png", "CPrice": 1100.00, "MSPrice": 1400.00, "OnHand": 3, "BOrder":5, "Descrip": "The Roland JX-3P is a synthesizer produced by Roland Corporation of Japan in 1983. The \"3P\" in its name refers to \"Programmable Preset Polyphonic\". It is notable as one of the company's first synthesizers (along with the Jupiter-6) to incorporate a MIDI interface."},
 
-{"Id":"15", "BRAND": "Moog", "BraID": 3, "ProName": "Grandmother", "PicName": "grandmother.png", "CPrice": 1100.00, "MSPrice": 1400.00, "OnHand": 3, "BOrder":5, "Descrip": "The Roland JX-3P is a synthesizer produced by Roland Corporation of Japan in 1983. The \"3P\" in its name refers to \"Programmable Preset Polyphonic\". It is notable as one of the company's first synthesizers (along with the Jupiter-6) to incorporate a MIDI interface."},
+{"Id":"15", "BRAND": "Moog", "BraID": 3, "ProName": "Grandmother", "PicName": "grandmother.png", "CPrice": 1100.00, "MSPrice": 1400.00, "OnHand": 3, "BOrder":5, "Descrip": "The Roland JX-3P is a synthesizer produced by Roland Corporation of Japan in 1983. The \"3P\" in its name refers to \"Programmable Preset Polyphonic\". It is notable as one of the company's first synthesizers (along with the Jupiter-6) to incorporate a MIDI interface."}
 
 ]
